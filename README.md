@@ -28,8 +28,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpuZ2UxNjB6ZWg4bnB4emRtdXl4NjhiZ3FvcmtnNXFjcGJ4dDM1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 
 ###
@@ -64,6 +62,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hazemezz123/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hazemezz123/hazemezz123/output/snake.svg" alt="Snake animation" />
 
 ###
