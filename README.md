@@ -18,6 +18,12 @@
   <a href="https://www.instagram.com/hazem_ezz_1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <a href="hazemezz988@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="705524395485036574" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ###
@@ -54,7 +60,12 @@
 
 ###
 
-<br clear="both">
+<img src="https://raw.githubusercontent.com/hazemezz123/hazemezz123/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/6d/fe/91/6dfe9114eb6719f3d2148daa69e5b5e7.jpg"  />
+</div>
 
 ###
