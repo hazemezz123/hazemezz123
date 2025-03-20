@@ -1,5 +1,5 @@
 ### **📌 Hi 👋! I'm Hazem**  
-#### **Full-Stack Developer | React.js Enthusiast | Web & Game Developer**  
+#### **Full-Stack Developer | React.js Enthusiast | Web Developer**  
 
 I am a passionate developer with experience in **React.js, PHP, Tailwind CSS, and Framer Motion**. I enjoy building **interactive web applications**, optimizing performance, and creating **engaging UI/UX** experiences.  
 
