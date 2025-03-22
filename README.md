@@ -101,7 +101,7 @@ I'm leading a **React.js workshop** covering essential concepts like components,
 
 ---
 
-## 📷 **Fun Stuff**  
+## 📷 **bugs bunny**  
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/736x/6d/fe/91/6dfe9114eb6719f3d2148daa69e5b5e7.jpg"  />
