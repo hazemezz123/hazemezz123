@@ -104,6 +104,6 @@ I'm leading a **React.js workshop** covering essential concepts like components,
 ## 📷 **bugs bunny**  
 
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JjNnRnY2szM3c2aHQyMW9tdjAyNGJ6djZmNm90NGxnb2dkbW9scCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pwPuAdxn0k4YtyobGA/giphy.gif" />
+  <img height="200" src="https://media0.giphy.com/media/pwPuAdxn0k4YtyobGA/giphy.gif" />
 </div>
 
