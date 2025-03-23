@@ -104,7 +104,6 @@ I'm leading a **React.js workshop** covering essential concepts like components,
 ## 👈😄👉 
 
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/pwPuAdxn0k4YtyobGA/giphy.gif" />
+  <img height="200" src="https://media0.giphy.com/media/pwPuAdxn0k4YtyobGA/giphy.gif"  />
 </div>
-
 
