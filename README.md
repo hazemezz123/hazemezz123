@@ -105,8 +105,7 @@ I'm leading a **React.js workshop** covering essential concepts like components,
 
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRpM2wwY3pkbjUybnh4ZnZ1NGw0cTdveDV2a3J0NTRnOXp2YWV3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif"  />
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmptb2trOHlodmgxdHllajh1dGJ2NTJiZHRkYjhsM3lmcHE4cm5rciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pwPuAdxn0k4YtyobGA/giphy.gif"  />
-<iframe src="https://giphy.com/embed/pwPuAdxn0k4YtyobGA" width="480" height="413" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pwPuAdxn0k4YtyobGA">via GIPHY</a></p>
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21zcWl2b3RoNGpzaHZobjY5OHhiZnR1M3Q1eWc3bTh6dzFzYnc3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pn1h5Un3LZD9uq3u07/giphy.gif"  />
   
 </div>
 
