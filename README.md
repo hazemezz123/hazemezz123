@@ -101,11 +101,10 @@ I'm leading a **React.js workshop** covering essential concepts like components,
 
 ---
 
-## 👈😄👉 
+## "" My quote ""
 
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRpM2wwY3pkbjUybnh4ZnZ1NGw0cTdveDV2a3J0NTRnOXp2YWV3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif"  />
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21zcWl2b3RoNGpzaHZobjY5OHhiZnR1M3Q1eWc3bTh6dzFzYnc3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pn1h5Un3LZD9uq3u07/giphy.gif"  />
   
 </div>
 
