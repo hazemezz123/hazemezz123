@@ -65,7 +65,7 @@ enjoy building **interactive web applications**, optimizing performance, and cre
 ## "" My quote ""
 
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRpM2wwY3pkbjUybnh4ZnZ1NGw0cTdveDV2a3J0NTRnOXp2YWV3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQ5cTJqOHNnd3FoMmRxMjNzbTU5OGNjaXc4ZGdmZTdhYmt1MTlhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pwPuAdxn0k4YtyobGA/giphy.gif"  />
   
 </div>
 
