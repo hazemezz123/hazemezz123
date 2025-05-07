@@ -1,26 +1,10 @@
 ### **📌 Hi 👋! I'm Hazem**  
 #### **Full-Stack Developer**  
 
-I am a passionate developer with experience in **React.js, PHP, Tailwind CSS, and Framer Motion**. I enjoy building **interactive web applications**, optimizing performance, and creating **engaging UI/UX** experiences.  
+I am a passionate developer with experience in **React.js, PHP, Tailwind CSS, and Framer Motion**.
+enjoy building **interactive web applications**, optimizing performance, and creating **engaging UI/UX** experiences.  
 
 ---
-
-## 🚀 **Currently Working On:**  
-- A **React.js-based food scanner** to determine expiration dates (**PectoScan**).  
-- A **scooter rental website** built with **React, Tailwind CSS, and Framer Motion**.  
-- An **e-commerce website** with **React Router** for seamless navigation.  
-- A **PHP-based tournament scoring system** with **MySQL** integration.  
-
-🌱 **Always Learning:**  
-- Advanced **React Hooks & Context API**  
-- **Game Development** & integrating APIs  
-- **Security & Performance Optimization**  
-
-📢 **Conducting a React.js Workshop!**  
-I'm leading a **React.js workshop** covering essential concepts like components, hooks (`useState`, `useEffect`, `useReducer`, `useContext`), event handling, **React Router DOM**, and data fetching using Axios.  
-
----
-
 ## 📊 **GitHub Stats**  
 
 <div align="center">
@@ -69,27 +53,6 @@ I'm leading a **React.js workshop** covering essential concepts like components,
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </div>
-
----
-
-## 🏆 **Featured Projects**  
-
-### 🔹 **Dern-Support IT Solutions**  
-📌 **A website offering IT support services.**  
-- **Theme Switching**: Implemented dark/light mode  
-- **Tech Used**: React, Tailwind CSS  
-
-### 🔹 **Student Tournament System**  
-📌 **A PHP-based competition scoring system.**  
-- **Tech Used**: PHP, MySQL, Tailwind CSS  
-- **Features**: Leaderboards, quiz integration  
-
-### 🔹 **Scooter Rental Website**  
-📌 **A React app for renting electric scooters in Egypt.**  
-- **Tech Used**: React.js, Tailwind CSS, Framer Motion  
-
----
-
 ## 🐍 **GitHub Activity**  
 
 <img src="https://raw.githubusercontent.com/hazemezz123/hazemezz123/output/snake.svg" alt="Snake animation" />
