@@ -62,7 +62,7 @@ enjoy building **interactive web applications**, optimizing performance, and cre
 
 ---
 
-## "" My quote ""
+## When !
 
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g2Z3k0ZTJkN3hqMm55YmVmN2RwOHhyNnJnNjF0Y3V3aXh3Zm5iMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif"  />
