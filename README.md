@@ -53,6 +53,7 @@ enjoy building **interactive web applications**, optimizing performance, and cre
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </div>
+---
 ## 🐍 **GitHub Activity**  
 
 <img src="https://raw.githubusercontent.com/hazemezz123/hazemezz123/output/snake.svg" alt="Snake animation" />
