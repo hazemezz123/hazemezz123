@@ -74,11 +74,6 @@ I'm leading a **React.js workshop** covering essential concepts like components,
 
 ## 🏆 **Featured Projects**  
 
-### 🔹 **PectoScan** (Ongoing)  
-📌 **A React.js app to scan food and determine expiration dates.**  
-- **Front-end**: React.js, Tailwind CSS, Framer Motion  
-- **Features**: Barcode scanning, expiration tracking  
-
 ### 🔹 **Dern-Support IT Solutions**  
 📌 **A website offering IT support services.**  
 - **Theme Switching**: Implemented dark/light mode  
