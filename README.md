@@ -22,7 +22,7 @@ I’m a full-stack developer with a knack for creating **interactive web apps** 
 
 ### Frontend
 
-![DaisyUI](https://img.shields.io/badge/DaisyUI-7570EC?style=for-the-badge&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-FACC15?style=for-the-badge&logoColor=white&labelColor=FACC15)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
