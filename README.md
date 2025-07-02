@@ -54,19 +54,32 @@ I’m a full-stack developer with a knack for creating **interactive web apps** 
 ![Cursor AI Editor](https://img.shields.io/badge/Cursor_AI_Editor-1E90FF?style=for-the-badge&logo=cursor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🖥️ Featured Projects
+# 🖥️ Featured Projects
 
-- **[TaskMaster]**  
-  A task management app with real-time collaboration and notifications.  
-  **Tech Stack**: React, Node.js, MongoDB  
-  **Repo**: [Link to GitHub repo]  
-  **Demo**: [Link to live demo]
+### 📚 React DOCs  
+A comprehensive documentation site for learning React.js with clear examples to help both beginners and professionals.  
+**Tech Stack**: React.js, Vite, Tailwind CSS  
+🔗 [GitHub Repo](https://github.com/hazemezz123/React-Docs)  
+🌐 [Live Site](https://react-docs-flame.vercel.app/)
 
-- **[Shopify Clone]**  
-  An e-commerce platform with payment integration and user authentication.  
-  **Tech Stack**: Laravel, MySQL, Tailwind CSS  
-  **Repo**: [Link to GitHub repo]  
-  **Demo**: [Link to live demo]
+### 💼 Personal Portfolio  
+A personal portfolio showcasing my projects, skills, and resume with a modern, responsive design and smooth animations.  
+**Tech Stack**: Next.js, Framer Motion, Tailwind CSS, CSS3  
+🔗 [GitHub Repo](https://github.com/hazemezz123/Portfolio)  
+🌐 [Live Site](https://hazemdev.vercel.app/)
+
+### ⚡ SpeedYou  
+An electric scooter rental platform that offers fast and convenient scooter booking services.  
+**Tech Stack**: React.js, Tailwind CSS, Framer Motion  
+🔗 [GitHub Repo](https://github.com/hazemezz123/SpeedYou)  
+🌐 [Live Site](https://speedyou.vercel.app/)
+
+### 🛠️ DernSupport  
+A company support platform featuring user authentication and a ticketing system to manage support requests efficiently.  
+**Tech Stack**: Node.js, React.js, Tailwind CSS  
+🔗 [GitHub Repo](https://github.com/hazemezz123/dern-Company)  
+🌐 [Live Site](https://dern-company.vercel.app/)
+
 
 ## 📊 GitHub Stats
 
