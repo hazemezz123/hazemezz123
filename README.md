@@ -62,17 +62,23 @@ A comprehensive documentation site for learning React.js with clear examples to 
 🔗 [GitHub Repo](https://github.com/hazemezz123/React-Docs)  
 🌐 [Live Site](https://react-docs-flame.vercel.app/)
 
+---
+
 ### 💼 Personal Portfolio  
 A personal portfolio showcasing my projects, skills, and resume with a modern, responsive design and smooth animations.  
 **Tech Stack**: Next.js, Framer Motion, Tailwind CSS, CSS3  
 🔗 [GitHub Repo](https://github.com/hazemezz123/Portfolio)  
 🌐 [Live Site](https://hazemdev.vercel.app/)
 
+---
+
 ### ⚡ SpeedYou  
 An electric scooter rental platform that offers fast and convenient scooter booking services.  
 **Tech Stack**: React.js, Tailwind CSS, Framer Motion  
 🔗 [GitHub Repo](https://github.com/hazemezz123/SpeedYou)  
 🌐 [Live Site](https://speedyou.vercel.app/)
+
+---
 
 ### 🛠️ DernSupport  
 A company support platform featuring user authentication and a ticketing system to manage support requests efficiently.  
