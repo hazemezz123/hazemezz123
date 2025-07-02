@@ -108,8 +108,6 @@ A fun visualization of my GitHub contributions over time:
 
 - Exploring **Zustand** for lightweight and scalable state management in React.
 - Diving into **GSAP** for creating smooth and engaging animations.
-- Mastering **GraphQL** for efficient API design.
-- Learning **Web3** and blockchain development.
 - Deepening knowledge in **TypeScript** for type-safe JavaScript.
 
 ## 📬 Connect with Me
