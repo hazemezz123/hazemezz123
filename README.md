@@ -1,36 +1,37 @@
 <!-- =========================
       Hazem Mohamed README
-     Theme: Noir Manga (Black & Gray)
+     Theme: Noir / Manga
 ========================== -->
 
-<!-- ✅ Banner (Your Image) -->
+<!-- Banner -->
 <div align="center">
-  <img width="100%" height="240" src="https://i.pinimg.com/originals/6c/55/fb/6c55fb5f5ccb168e3aa2c8412d6d481f.gif" />
+  <img width="100%" height="200" src="https://i.pinimg.com/originals/6c/55/fb/6c55fb5f5ccb168e3aa2c8412d6d481f.gif" />
 </div>
 
 <br/>
 
-<h1 align="center">⚫ Hazem Mohamed</h1>
+<h1 align="center">Hazem Mohamed</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hazemezz123&label=Profile%20Views&color=111111&style=flat" />
   <img src="https://img.shields.io/github/followers/hazemezz123?label=Followers&style=flat&color=111111" />
-  <img src="https://img.shields.io/badge/Theme-Noir%20%7C%20Manga-111111?style=flat&logo=github&logoColor=white" />
 </div>
 
 ---
 
-## 🖤 About Me
-- 👤 I'm **Hazem Mohamed**
-- 👨‍💻 **Full-Stack Web Developer**
-- ⚡ I build modern web apps focused on **performance**, **clean UI**, and **great UX**
-- 🌱 Currently learning: **Zustand**, **GSAP**, and deepening **TypeScript**
-- 🎯 Goal: build smooth, scalable, real-world applications
+## About
+I'm Hazem Mohamed, a Full-Stack Web Developer.
+I build modern web applications focused on performance, clean UI, and strong UX.
+
+- Frontend: React, Next.js, Tailwind, Material UI
+- Backend: Laravel, Node.js, Express
+- Database: MySQL, MongoDB
+- Learning: Zustand, GSAP, TypeScript
 
 ---
 
-## ⚙️ Tech Stack (Minimal)
+## Tech Stack
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,html,css" height="55" />
@@ -43,28 +44,27 @@
 
 ---
 
-## ⚫ My Programming Experience
-
-### 🖤 Frontend
-- React / Next.js (Reusable components, clean structure)
+## Experience
+### Frontend
+- Responsive UI with React & Next.js
 - Tailwind / Bootstrap / Material UI
-- Animations: Framer Motion / GSAP
+- Animations with Framer Motion / GSAP
 - API integration with Axios / Fetch
-- Performance + SEO optimization
+- Performance & SEO optimization
 
-### 🖤 Backend
-- Laravel & Node.js (Express)
-- REST APIs + Authentication
+### Backend
+- REST APIs with Laravel & Node.js
+- Authentication (JWT / Sessions)
 - Real-time apps with Socket.IO
-- Clean architecture (MVC, organized layers)
+- Clean architecture and scalable structure
 
-### 🖤 Databases
-- MySQL (relations, optimized queries)
+### Databases
+- MySQL (relations, optimization)
 - MongoDB (NoSQL, aggregation)
 
 ---
 
-## ⚫ Featured Projects
+## Featured Projects
 <div align="center">
 
 [![React Docs](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=React-Docs&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&hide_border=true)](https://github.com/hazemezz123/React-Docs)
@@ -77,7 +77,7 @@
 
 ---
 
-## 🌑 GitHub Stats
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hazemezz123&show_icons=true&theme=dark&title_color=FFFFFF&icon_color=cccccc&text_color=cccccc&bg_color=0d0d0d&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazemezz123&layout=compact&theme=dark&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&hide_border=true" height="160" />
@@ -91,7 +91,7 @@
 
 ---
 
-## 🖤 Connect With Me
+## Contact
 <div align="center">
   <a href="https://www.linkedin.com/in/hazem-ezz-424498285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ffffff" height="28"/>
@@ -109,15 +109,6 @@
 
 ---
 
-## 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/hazemezz123/hazemezz123/output/snake.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-🖤 **"Talk is cheap. Show me the code."** — Linus Torvalds  
-
 </div>
