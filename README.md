@@ -5,7 +5,7 @@
 
 <!-- ✅ Banner -->
 <div align="center">
-  <img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU5ODMwaHZpOG52OWhuaWsyZHNsY3hsbXBybHRqYzVhb2kxYTY4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YhFzQw0j4lPNu/giphy.gif" />
+  <img width="100%" src="https://i.pinimg.com/originals/6c/55/fb/6c55fb5f5ccb168e3aa2c8412d6d481f.gif" />
 </div>
 
 <h1 align="center">Hey 👋 What's Up?</h1>
