@@ -1,7 +1,8 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hazem+Mohamed;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Laravel+%7C+Node.js;UI%2FUX+Enthusiast+%26+Problem+Solver" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=220&section=header&text=Hazem%20Mohamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%7C%20React%20%7C%20Laravel%20%7C%20Node.js&descAlignY=65&descSize=18" />
 </div>
+
 
 <br/>
 
