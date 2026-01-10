@@ -21,13 +21,26 @@
 ---
 
 ## About
-I'm Hazem Mohamed, a Full-Stack Web Developer.
+I'm Hazem Mohamed, a Full-Stack Web Developer.  
 I build modern web applications focused on performance, clean UI, and strong UX.
 
 - Frontend: React, Next.js, Tailwind, Material UI
 - Backend: Laravel, Node.js, Express
 - Database: MySQL, MongoDB
 - Learning: Zustand, GSAP, TypeScript
+
+---
+
+## Featured Projects
+<div align="center">
+
+[![React Docs](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=React-Docs&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&hide_border=true)](https://github.com/hazemezz123/React-Docs)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=Portfolio&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&hide_border=true)](https://github.com/hazemezz123/Portfolio)
+
+[![SpeedYou](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=SpeedYou&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&hide_border=true)](https://github.com/hazemezz123/SpeedYou)
+[![DernSupport](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=dern-Company&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&hide_border=true)](https://github.com/hazemezz123/dern-Company)
+
+</div>
 
 ---
 
@@ -45,6 +58,7 @@ I build modern web applications focused on performance, clean UI, and strong UX.
 ---
 
 ## Experience
+
 ### Frontend
 - Responsive UI with React & Next.js
 - Tailwind / Bootstrap / Material UI
@@ -61,19 +75,6 @@ I build modern web applications focused on performance, clean UI, and strong UX.
 ### Databases
 - MySQL (relations, optimization)
 - MongoDB (NoSQL, aggregation)
-
----
-
-## Featured Projects
-<div align="center">
-
-[![React Docs](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=React-Docs&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&hide_border=true)](https://github.com/hazemezz123/React-Docs)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=Portfolio&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&hide_border=true)](https://github.com/hazemezz123/Portfolio)
-
-[![SpeedYou](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=SpeedYou&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&hide_border=true)](https://github.com/hazemezz123/SpeedYou)
-[![DernSupport](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=dern-Company&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&hide_border=true)](https://github.com/hazemezz123/dern-Company)
-
-</div>
 
 ---
 
