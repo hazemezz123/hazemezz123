@@ -5,7 +5,7 @@
 
 <!-- ✅ Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:111111&height=240&section=header&text=Hazem%20Mohamed&fontSize=60&fontColor=111111&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20Developer&descAlignY=68&descSize=24" />
+  <img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU5ODMwaHZpOG52OWhuaWsyZHNsY3hsbXBybHRqYzVhb2kxYTY4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YhFzQw0j4lPNu/giphy.gif" />
 </div>
 
 <h1 align="center">Hey 👋 What's Up?</h1>
