@@ -5,16 +5,17 @@
 
 <!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://i.pinimg.com/1200x/1b/3d/2d/1b3d2da6e623a2564b072b851bf9c044.jpg" alt="retro-banner" />
+  <img width="100%" hight="300px" src="https://i.pinimg.com/1200x/1b/3d/2d/1b3d2da6e623a2564b072b851bf9c044.jpg" alt="retro-banner" />
 </div>
 
 <br/>
 
-```txt
-> BOOTING SYSTEM...
-> LOADING USER PROFILE...
-> WELCOME, VISITOR.
-```
+<!-- Animated Boot Sequence -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=BOOTING+SYSTEM...;LOADING+USER+PROFILE...;WELCOME,+VISITOR.&font=Share+Tech+Mono&center=true&width=500&height=50&color=000000&vCenter=true&pause=1000&repeat=false&size=20" alt="Boot Sequence" />
+  </a>
+</div>
 
 <div align="center">
 
@@ -65,62 +66,76 @@
 
 ### > FRONTEND_DEV
 
-```diff
-+ Build responsive UI with React & Next.js
-+ Tailwind / Bootstrap / Material UI
-+ Animations using Framer Motion / GSAP
-+ API Integration with Axios / Fetch
-+ Optimize performance & SEO
+```txt
+> Build responsive UI with React & Next.js
+> Tailwind / Bootstrap / Material UI
+> Animations using Framer Motion / GSAP
+> API Integration with Axios / Fetch
+> Optimize performance & SEO
 ```
 
 ### > BACKEND_ENGINEER
 
-```diff
-+ REST APIs using Laravel & Node.js (Express)
-+ Authentication (JWT / Sessions)
-+ Real-time apps using Socket.IO
-+ Clean architecture and scalable structure
+```txt
+> REST APIs using Laravel & Node.js (Express)
+> Authentication (JWT / Sessions)
+> Real-time apps using Socket.IO
+> Clean architecture and scalable structure
 ```
 
 ### > DATABASE_ADMIN
 
-```diff
-+ MySQL (relations, optimization)
-+ MongoDB (NoSQL, aggregation)
+```txt
+> MySQL (relations, optimization)
+> MongoDB (NoSQL, aggregation)
 ```
 
 ---
 
 ## [*] PROJECTS.DAT
 
-```txt
-> FETCHING REPOSITORIES...
-```
-
+<!-- Animated Text for fetching -->
 <div align="center">
-
-[![React Docs](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=React-Docs&title_color=000000&text_color=111111&bg_color=FFFFFF&hide_border=true)](https://github.com/hazemezz123/React-Docs)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=Portfolio&title_color=000000&text_color=111111&bg_color=FFFFFF&hide_border=true)](https://github.com/hazemezz123/Portfolio)
-
-[![SpeedYou](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=SpeedYou&title_color=000000&text_color=111111&bg_color=FFFFFF&hide_border=true)](https://github.com/hazemezz123/SpeedYou)
-[![DernSupport](https://github-readme-stats.vercel.app/api/pin/?username=hazemezz123&repo=dern-Company&title_color=000000&text_color=111111&bg_color=FFFFFF&hide_border=true)](https://github.com/hazemezz123/dern-Company)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=FETCHING+REPOSITORIES...&font=Share+Tech+Mono&center=true&width=500&height=30&color=000000&vCenter=true&pause=1000&repeat=true&size=16" alt="Fetching Repos" />
+  </a>
 </div>
+
+```txt
+> DIR /PROJECTS
+
+[DIR] React-Docs
+      > A comprehensive documentation and guide for React.js.
+      > ACCESS: PUBLIC
+
+[DIR] Portfolio
+      > Personal developer portfolio and showcase.
+      > ACCESS: PUBLIC
+
+[DIR] SpeedYou
+      > Optimized performance utility tool.
+      > ACCESS: RESTRICTED
+
+[DIR] dern-Company
+      > Corporate landing page and service integration.
+      > ACCESS: PUBLIC
+```
 
 ---
 
 ## [#] STATS.SYS
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hazemezz123&show_icons=true&title_color=000000&icon_color=000000&text_color=111111&bg_color=FFFFFF&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazemezz123&layout=compact&title_color=000000&text_color=111111&bg_color=FFFFFF&hide_border=true" />
-</div>
+```txt
+> RUNNING DIAGNOSTICS...
+> CHECKING GITHUB ACTIVITY...
 
-<br/>
-
-<div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=hazemezz123&theme=default&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakNum=000000&sideNums=111111&currStreakLabel=000000&sideLabels=111111&dates=111111" />
-</div>
+[SYSTEM STATUS]
+> OPERATING SYSTEM : WINDOWS / LINUX
+> MAIN LANGUAGE    : JAVASCRIPT [90%]
+> SECONDARY LANG   : PHP / PYTHON
+> COMMIT STREAK    : ACTIVE
+> TOTAL REPOS      : ONLINE
+```
 
 ---
 
@@ -149,9 +164,9 @@
 
 <div align="center">
 
-```txt
-> SYSTEM SHUTDOWN...
-> GOODBYE.
-```
+<!-- Animated Shutdown -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=SYSTEM+SHUTDOWN...;GOODBYE.&font=Share+Tech+Mono&center=true&width=500&height=50&color=000000&vCenter=true&pause=1000&repeat=false&size=20" alt="Shutdown" />
+</a>
 
 </div>
