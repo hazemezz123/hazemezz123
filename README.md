@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img width="100%" height="200" src="https://i.pinimg.com/originals/6c/55/fb/6c55fb5f5ccb168e3aa2c8412d6d481f.gif" />
+  <img width="100%" height="200" src="https://i.pinimg.com/1200x/ee/bf/39/eebf391646f115e712d093e6bd8fd4b9.jpg" />
 </div>
 
 <br/>
