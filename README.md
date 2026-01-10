@@ -1,7 +1,8 @@
 <!-- ✅ YELLOW/BLACK BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,100:000000&height=230&section=header&text=Hazem%20Mohamed&fontSize=55&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20Developer&descAlignY=65&descSize=22" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:F7DF1E&height=220&section=header&text=Hazem%20Mohamed&fontSize=60&fontColor=F7DF1E&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20Developer&descAlignY=70&descSize=22" />
 </div>
+
 
 <!-- ✅ TYPING -->
 <div align="center">
