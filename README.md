@@ -21,7 +21,7 @@
   <a href="https://github.com/hazemezz123">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0b1b16?style=for-the-badge&logo=github&logoColor=dff5e7" />
   </a>
-  <a href="https://www.linkedin.com/in/hazem-ezz">
+  <a href="https://www.linkedin.com/in/hazem-ezz-424498285/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-244b3f?style=for-the-badge&logo=linkedin&logoColor=dff5e7" />
   </a>
   <a href="https://hazemdev.vercel.app">
