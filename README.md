@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" />
+  <img width="250" src="https://i.pinimg.com/originals/93/9e/92/939e9273e3d6ef4f281cda31e9e62488.gif" />
 </p>
 
 <p align="center">
