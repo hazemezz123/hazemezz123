@@ -39,14 +39,10 @@
     📍 Suez, Egypt
   </samp>
 </p>
-<!-- Tech Stack -->
-<h3 align="center">
-  <samp>🧰 Tech Stack</samp>
-</h3>
 
 <!-- Tech Stack -->
 <h3 align="center">
-  <samp>🧰 Tech Stack</samp>
+  <samp>Tech Stack</samp>
 </h3>
 
 <p align="center">
