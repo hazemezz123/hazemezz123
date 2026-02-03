@@ -12,7 +12,7 @@
   <samp>
     Hi there 👋🏽 welcome to my GitHub! <br/>
     I'm a Full Stack Developer & AI Student 🤖💻 <br/>
-    I love building scalable web apps with Next.js, React, and Laravel 🚀
+    I love building scalable web apps with Next.js, React, and Node.js
   </samp>
 </h4>
 
