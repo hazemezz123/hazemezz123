@@ -1,9 +1,10 @@
-<!-- Full-width banner at the very top -->
+<!-- Banner (centered) -->
 <p align="center">
   <img
     src="https://i.pinimg.com/originals/a9/8a/1f/a98a1fe05019c395040c7872f7a26be4.gif"
-    width="100%"
     alt="banner"
+    width="900"
+    style="max-width:100%; border-radius:16px;"
   />
 </p>
 
@@ -15,18 +16,19 @@
   </samp>
 </h4>
 
+<!-- Social icons (themed badges) -->
 <p align="center">
   <a href="https://github.com/hazemezz123">
-    <img src="https://img.icons8.com/ios-glyphs/32/000000/github.png"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0b1b16?style=for-the-badge&logo=github&logoColor=dff5e7" />
   </a>
   <a href="https://www.linkedin.com/in/hazem-ezz">
-    <img src="https://img.icons8.com/material-outlined/32/000000/linkedin.png"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-244b3f?style=for-the-badge&logo=linkedin&logoColor=dff5e7" />
   </a>
   <a href="https://hazemdev.vercel.app">
-    <img src="https://img.icons8.com/ios-filled/32/000000/domain.png"/>
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-3b6b5d?style=for-the-badge&logo=vercel&logoColor=dff5e7" />
   </a>
   <a href="mailto:hazemezz988@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/32/000000/email.png"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-6a8f83?style=for-the-badge&logo=gmail&logoColor=0b1b16" />
   </a>
 </p>
 
