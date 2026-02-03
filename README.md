@@ -1,3 +1,12 @@
+<!-- Full-width banner at the very top -->
+<p align="center">
+  <img
+    src="https://i.pinimg.com/originals/3a/82/56/3a8256b391b0de71639848f2815c2b14.gif"
+    width="100%"
+    alt="banner"
+  />
+</p>
+
 <h4 align="center">
   <samp>
     Hi there 👋🏽 welcome to my GitHub! <br/>
@@ -5,10 +14,6 @@
     I love building scalable web apps with Next.js, React, and Laravel 🚀
   </samp>
 </h4>
-
-<p align="center">
-  <img  src="https://i.pinimg.com/originals/3a/82/56/3a8256b391b0de71639848f2815c2b14.gif" />
-</p>
 
 <p align="center">
   <a href="https://github.com/hazemezz123">
@@ -34,7 +39,5 @@
 </p>
 
 <p align="center">
-  <samp>
-    Check out my repositories ⬇️
-  </samp>
+  <samp>Check out my repositories ⬇️</samp>
 </p>
