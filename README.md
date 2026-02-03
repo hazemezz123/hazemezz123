@@ -1,7 +1,7 @@
 <!-- Full-width banner at the very top -->
 <p align="center">
   <img
-    src="https://i.pinimg.com/originals/3a/82/56/3a8256b391b0de71639848f2815c2b14.gif"
+    src="https://i.pinimg.com/originals/a9/8a/1f/a98a1fe05019c395040c7872f7a26be4.gif"
     width="100%"
     alt="banner"
   />
