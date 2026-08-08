@@ -43,13 +43,6 @@
 <h3 align="center">
   <samp>🧰 Tech Stack</samp>
 </h3>
-
-<!-- Tech Stack -->
-<h3 align="center">
-  <samp>🧰 Tech Stack</samp>
-  <samp>Tech Stack</samp>
-</h3>
-
 <p align="center">
   <!-- Frontend -->
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0b1b16?style=flat&logo=nextdotjs&logoColor=dff5e7" />
